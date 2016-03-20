@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "hello"
-ls -l
+echo "Murali"
